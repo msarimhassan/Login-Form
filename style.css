@@ -1,0 +1,36 @@
+input
+{
+    border-radius: 20px;
+    background-color: cadetblue;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+img
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 60px;
+    padding-top: 40px;
+}
+input.op
+{
+    width:100px
+}
+::placeholder
+{
+ color: black;
+ opacity: 1;
+}
+div.sarimshah
+{
+    border: 2px solid cadetblue;
+    background-color: rgba(50,50,50,0.4);
+    border-width: thick;
+    width: 300px;
+    height: 500px;
+    padding: 25px;
+    margin-top: 20px;
+    margin-left: 500px;
+    border-radius: 60px;
+}
